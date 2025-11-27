@@ -1,0 +1,1 @@
+{"resources":[{"@type":"Symfony\\Component\\Config\\Resource\\FileResource","resource":"/var/www/html/var/sass/app.output.css"},{"@type":"Symfony\\Component\\Config\\Resource\\FileResource","resource":"/var/www/html/assets/styles/app.scss"}]}

@@ -1,7 +1,7 @@
-#!/bin/bash
+#/bin/bash
 
 UID = $(shell id -u)
-DOCKER_BE = symfony-app
+DOCKER_BE = symfony-demo-app
 
 help: ## Show this help message
 	@echo 'usage: make [target]'

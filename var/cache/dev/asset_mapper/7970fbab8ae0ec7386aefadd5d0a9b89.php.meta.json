@@ -1,0 +1,1 @@
+{"resources":[{"@type":"Symfony\\Component\\Config\\Resource\\FileResource","resource":"/var/www/html/assets/vendor/superagent/superagent.index.js"},{"@type":"Symfony\\Component\\Config\\Resource\\FileExistenceResource","exists":true,"resource":"/var/www/html/assets/vendor/component-emitter/component-emitter.index.js"}]}
